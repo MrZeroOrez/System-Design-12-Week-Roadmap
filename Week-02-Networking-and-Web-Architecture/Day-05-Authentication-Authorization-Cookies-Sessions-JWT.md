@@ -48,7 +48,7 @@ sequenceDiagram
     B->>A: POST /login (over HTTPS)
     A->>A: Verify password hash
     A->>S: Store random session ID
-    A-->>B: Set-Cookie: sid=...; HttpOnly; Secure
+    A-->>B: Set-Cookie header containing session ID and security attributes
     B->>API: GET /orders/42 + Cookie
     API->>S: Validate session
     API->>API: Check order ownership
