@@ -56,8 +56,16 @@ Tick a box **only after completing the actual lesson**. A published Git commit d
 - [ ] [Day 6: Transactional Outbox, Sagas and Reliable Workflows](Week-06-Kafka-and-Event-Driven-Architecture/Day-06-Transactional-Outbox-Sagas-and-Reliable-Workflows.md)
 - [ ] [Day 7: Revision and Event-Driven Order Processing Mock Interview](Week-06-Kafka-and-Event-Driven-Architecture/Day-07-Revision-Event-Driven-Order-System-Mock-Interview.md)
 
+## Week 7 — Microservices Architecture
+- [ ] [Day 1: Microservices Architecture Fundamentals and Service Boundaries](Week-07-Microservices-Architecture/Day-01-Microservices-Architecture-Fundamentals.md)
+- [ ] [Day 2: API Gateway and Edge Architecture](Week-07-Microservices-Architecture/Day-02-API-Gateway-and-Edge-Architecture.md)
+- [ ] [Day 3: Service Discovery and Load Balancing](Week-07-Microservices-Architecture/Day-03-Service-Discovery-and-Load-Balancing.md)
+- [ ] [Day 4: Inter-Service Communication with REST and gRPC](Week-07-Microservices-Architecture/Day-04-Inter-Service-Communication-REST-HTTP-gRPC.md)
+- [ ] [Day 5: Resilience Patterns for Microservices](Week-07-Microservices-Architecture/Day-05-Resilience-Patterns-for-Microservices.md)
+- [ ] [Day 6: Configuration, Security, Observability and Reliable Workflows](Week-07-Microservices-Architecture/Day-06-Configuration-Security-Observability-Reliable-Workflows.md)
+- [ ] [Day 7: Revision and Microservices Order Platform Mock Interview](Week-07-Microservices-Architecture/Day-07-Revision-Microservices-Order-Platform-Mock-Interview.md)
+
 ## Further weeks
-- [ ] Week 7: Microservices
 - [ ] Week 8: Advanced System Design
 - [ ] Week 9: To be determined
 - [ ] Week 10: To be determined
