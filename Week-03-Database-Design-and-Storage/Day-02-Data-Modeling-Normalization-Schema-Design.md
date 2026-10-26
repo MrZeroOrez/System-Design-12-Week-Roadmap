@@ -45,11 +45,31 @@ erDiagram
     ORDERS ||--|{ ORDER_ITEMS : contains
     PRODUCTS ||--o{ ORDER_ITEMS : referenced_by
     PRODUCTS ||--|| INVENTORY : tracked_in
-    CUSTOMERS { bigint id PK string email UK }
-    ORDERS { bigint id PK bigint customer_id FK string status numeric order_total }
-    ORDER_ITEMS { bigint order_id FK bigint product_id FK int quantity numeric unit_price }
-    PRODUCTS { bigint id PK string sku UK numeric price }
-    INVENTORY { bigint product_id FK int available_quantity }
+    CUSTOMERS {
+        bigint id PK
+        string email UK
+    }
+    ORDERS {
+        bigint id PK
+        bigint customer_id FK
+        string status
+        numeric order_total
+    }
+    ORDER_ITEMS {
+        bigint order_id FK
+        bigint product_id FK
+        int quantity
+        numeric unit_price
+    }
+    PRODUCTS {
+        bigint id PK
+        string sku UK
+        numeric price
+    }
+    INVENTORY {
+        bigint product_id FK
+        int available_quantity
+    }
 ```
 
 *Diagram is a conceptual example; explain ownership, constraints and failure behavior rather than blindly replicating components.*
