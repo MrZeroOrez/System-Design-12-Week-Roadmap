@@ -81,5 +81,8 @@ A structured, **detailed day-by-day interview learning repository** for Java and
 | 5 | Distributed Systems | Detailed notes published |
 | 6 | Kafka and Event-Driven Architecture | Detailed notes published |
 | 7 | Microservices Architecture | Detailed notes published |
-| 8 | Advanced System Design and High Availability | Upcoming |
-| 9–12 | To be defined | Upcoming |
+| 8 | Low-Level Design & Concurrency | Upcoming |
+| 9 | Real-Time & Search Systems | Upcoming |
+| 10 | Large-Scale Design Case Studies | Upcoming |
+| 11 | Production Engineering & Scale | Upcoming |
+| 12 | Capstone & Interview Readiness | Upcoming |
