@@ -29,8 +29,16 @@ Tick a box **only after completing the actual lesson**. A published Git commit d
 - [ ] [Day 6: Partitioning, Sharding and Database Scalability](Week-03-Database-Design-and-Storage/Day-06-Partitioning-Sharding-Database-Scalability.md)
 - [ ] [Day 7: Revision and E-commerce Database Mock Interview](Week-03-Database-Design-and-Storage/Day-07-Revision-Ecommerce-Database-Interview.md)
 
+## Week 4 — Caching and Performance Optimization
+- [ ] [Day 1: Caching Fundamentals and Performance Bottlenecks](Week-04-Caching-and-Performance-Optimization/Day-01-Caching-Fundamentals-and-Performance.md)
+- [ ] [Day 2: Cache Layers and Caching Strategies](Week-04-Caching-and-Performance-Optimization/Day-02-Cache-Layers-and-Caching-Strategies.md)
+- [ ] [Day 3: Redis Fundamentals and Spring Boot Integration](Week-04-Caching-and-Performance-Optimization/Day-03-Redis-Fundamentals-and-Spring-Boot.md)
+- [ ] [Day 4: Cache Invalidation, Consistency and Stale Data](Week-04-Caching-and-Performance-Optimization/Day-04-Cache-Invalidation-Consistency-Stale-Data.md)
+- [ ] [Day 5: Cache Stampede, Penetration, Hot Keys and Eviction](Week-04-Caching-and-Performance-Optimization/Day-05-Cache-Stampede-Penetration-Hot-Keys-Eviction.md)
+- [ ] [Day 6: Performance Optimization, Benchmarking and Observability](Week-04-Caching-and-Performance-Optimization/Day-06-Performance-Optimization-Benchmarking-Observability.md)
+- [ ] [Day 7: Week 4 Revision and Redis Catalog Mock Interview](Week-04-Caching-and-Performance-Optimization/Day-07-Revision-Redis-Catalog-Design-Mock-Interview.md)
+
 ## Further weeks
-- [ ] Week 4: Caching and Performance
 - [ ] Week 5: Distributed Systems
 - [ ] Week 6: Kafka and Event-Driven Architecture
 - [ ] Week 7: Microservices
