@@ -66,11 +66,11 @@ Tick a box **only after completing the actual lesson**. A published Git commit d
 - [ ] [Day 7: Revision and Microservices Order Platform Mock Interview](Week-07-Microservices-Architecture/Day-07-Revision-Microservices-Order-Platform-Mock-Interview.md)
 
 ## Further weeks
-- [ ] Week 8: Advanced System Design
-- [ ] Week 9: To be determined
-- [ ] Week 10: To be determined
-- [ ] Week 11: To be determined
-- [ ] Week 12: To be determined
+- [ ] Week 8: Low-Level Design & Concurrency
+- [ ] Week 9: Real-Time & Search Systems
+- [ ] Week 10: Large-Scale Design Case Studies
+- [ ] Week 11: Production Engineering & Scale
+- [ ] Week 12: Capstone & Interview Readiness
 
 ## Reflection log
 | Date | Lesson | Confidence (1–5) | Questions to revisit |
