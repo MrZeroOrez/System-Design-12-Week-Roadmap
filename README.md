@@ -11,6 +11,15 @@ A structured, **detailed day-by-day interview learning repository** for Java and
 - [Day 6: Design a URL Shortener](Week-01-System-Design-Fundamentals/Day-06-URL-Shortener.md)
 - [Day 7: Revision and Mock Interview](Week-01-System-Design-Fundamentals/Day-07-Revision.md)
 
+## Week 2 — Detailed networking and web architecture notes
+- [Day 1: Internet and Client–Server Architecture](Week-02-Networking-and-Web-Architecture/Day-01-Internet-and-Client-Server-Architecture.md)
+- [Day 2: DNS, TCP, UDP, HTTP, HTTPS and TLS](Week-02-Networking-and-Web-Architecture/Day-02-DNS-TCP-UDP-HTTP-and-TLS.md)
+- [Day 3: REST API Design](Week-02-Networking-and-Web-Architecture/Day-03-REST-API-Design.md)
+- [Day 4: Reverse Proxies, Load Balancers and CDNs](Week-02-Networking-and-Web-Architecture/Day-04-Reverse-Proxies-Load-Balancers-and-CDNs.md)
+- [Day 5: Authentication, Authorization, Cookies, Sessions and JWT](Week-02-Networking-and-Web-Architecture/Day-05-Authentication-Authorization-Cookies-Sessions-JWT.md)
+- [Day 6: GraphQL, gRPC, WebSockets and SSE](Week-02-Networking-and-Web-Architecture/Day-06-GraphQL-gRPC-WebSockets-and-SSE.md)
+- [Day 7: Revision and Mock Interview](Week-02-Networking-and-Web-Architecture/Day-07-Revision-Mock-Interview.md)
+
 ## How to study
 1. Work through the days in order.
 2. Recreate diagrams and calculations from memory.
@@ -21,7 +30,7 @@ A structured, **detailed day-by-day interview learning repository** for Java and
 | Week | Topic | Notes |
 |---|---|---|
 | 1 | System Design Fundamentals | Detailed notes published |
-| 2 | Networking and Web Architecture | Upcoming |
+| 2 | Networking and Web Architecture | Detailed notes published |
 | 3 | Database Design and Storage | Upcoming |
 | 4 | Caching and Performance | Upcoming |
 | 5 | Distributed Systems | Upcoming |
