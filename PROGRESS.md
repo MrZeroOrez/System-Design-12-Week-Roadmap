@@ -11,8 +11,16 @@ Tick a box **only after completing the actual lesson**. A published Git commit d
 - [ ] [Day 6: Design a URL Shortener](Week-01-System-Design-Fundamentals/Day-06-URL-Shortener.md)
 - [ ] [Day 7: Revision and Mock Interview](Week-01-System-Design-Fundamentals/Day-07-Revision.md)
 
+## Week 2 — Networking and Web Architecture
+- [ ] [Day 1: Internet and Client–Server Architecture](Week-02-Networking-and-Web-Architecture/Day-01-Internet-and-Client-Server-Architecture.md)
+- [ ] [Day 2: DNS, TCP, UDP, HTTP, HTTPS and TLS](Week-02-Networking-and-Web-Architecture/Day-02-DNS-TCP-UDP-HTTP-and-TLS.md)
+- [ ] [Day 3: REST API Design](Week-02-Networking-and-Web-Architecture/Day-03-REST-API-Design.md)
+- [ ] [Day 4: Reverse Proxies, Load Balancers and CDNs](Week-02-Networking-and-Web-Architecture/Day-04-Reverse-Proxies-Load-Balancers-and-CDNs.md)
+- [ ] [Day 5: Authentication, Authorization, Cookies, Sessions and JWT](Week-02-Networking-and-Web-Architecture/Day-05-Authentication-Authorization-Cookies-Sessions-JWT.md)
+- [ ] [Day 6: GraphQL, gRPC, WebSockets and SSE](Week-02-Networking-and-Web-Architecture/Day-06-GraphQL-gRPC-WebSockets-and-SSE.md)
+- [ ] [Day 7: Revision and Mock Interview](Week-02-Networking-and-Web-Architecture/Day-07-Revision-Mock-Interview.md)
+
 ## Further weeks
-- [ ] Week 2: Networking and Web Architecture
 - [ ] Week 3: Database Design and Storage
 - [ ] Week 4: Caching and Performance
 - [ ] Week 5: Distributed Systems
