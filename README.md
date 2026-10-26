@@ -38,6 +38,15 @@ A structured, **detailed day-by-day interview learning repository** for Java and
 - [Day 6: Performance Optimization, Benchmarking and Observability](Week-04-Caching-and-Performance-Optimization/Day-06-Performance-Optimization-Benchmarking-Observability.md)
 - [Day 7: Week 4 Revision and Redis Catalog Mock Interview](Week-04-Caching-and-Performance-Optimization/Day-07-Revision-Redis-Catalog-Design-Mock-Interview.md)
 
+## Week 5 — Detailed distributed systems notes
+- [Day 1: Distributed Systems Fundamentals](Week-05-Distributed-Systems-Fundamentals/Day-01-Distributed-Systems-Fundamentals.md)
+- [Day 2: Consistency Models and CAP Theorem](Week-05-Distributed-Systems-Fundamentals/Day-02-Consistency-Models-and-CAP-Theorem.md)
+- [Day 3: Timeouts, Retries, Backoff and Idempotency](Week-05-Distributed-Systems-Fundamentals/Day-03-Timeouts-Retries-Backoff-and-Idempotency.md)
+- [Day 4: Circuit Breakers, Bulkheads, Rate Limiting and Graceful Degradation](Week-05-Distributed-Systems-Fundamentals/Day-04-Circuit-Breakers-Bulkheads-Rate-Limiting.md)
+- [Day 5: Distributed Locks, Coordination and Consensus](Week-05-Distributed-Systems-Fundamentals/Day-05-Distributed-Locks-Coordination-and-Consensus.md)
+- [Day 6: Designing Reliable Distributed Workflows](Week-05-Distributed-Systems-Fundamentals/Day-06-Designing-Reliable-Distributed-Workflows.md)
+- [Day 7: Revision and Reliable Order-System Mock Interview](Week-05-Distributed-Systems-Fundamentals/Day-07-Revision-Reliable-Order-System-Mock-Interview.md)
+
 ## How to study
 1. Work through the days in order.
 2. Recreate diagrams and calculations from memory.
@@ -51,7 +60,7 @@ A structured, **detailed day-by-day interview learning repository** for Java and
 | 2 | Networking and Web Architecture | Detailed notes published |
 | 3 | Database Design and Storage | Detailed notes published |
 | 4 | Caching and Performance | Detailed notes published |
-| 5 | Distributed Systems | Upcoming |
+| 5 | Distributed Systems | Detailed notes published |
 | 6 | Kafka and Event-Driven Architecture | Upcoming |
 | 7 | Microservices Architecture | Upcoming |
 | 8 | Advanced System Design and High Availability | Upcoming |
