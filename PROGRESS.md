@@ -38,8 +38,16 @@ Tick a box **only after completing the actual lesson**. A published Git commit d
 - [ ] [Day 6: Performance Optimization, Benchmarking and Observability](Week-04-Caching-and-Performance-Optimization/Day-06-Performance-Optimization-Benchmarking-Observability.md)
 - [ ] [Day 7: Week 4 Revision and Redis Catalog Mock Interview](Week-04-Caching-and-Performance-Optimization/Day-07-Revision-Redis-Catalog-Design-Mock-Interview.md)
 
+## Week 5 — Distributed Systems Fundamentals
+- [ ] [Day 1: Distributed Systems Fundamentals](Week-05-Distributed-Systems-Fundamentals/Day-01-Distributed-Systems-Fundamentals.md)
+- [ ] [Day 2: Consistency Models and CAP Theorem](Week-05-Distributed-Systems-Fundamentals/Day-02-Consistency-Models-and-CAP-Theorem.md)
+- [ ] [Day 3: Timeouts, Retries, Backoff and Idempotency](Week-05-Distributed-Systems-Fundamentals/Day-03-Timeouts-Retries-Backoff-and-Idempotency.md)
+- [ ] [Day 4: Circuit Breakers, Bulkheads, Rate Limiting and Graceful Degradation](Week-05-Distributed-Systems-Fundamentals/Day-04-Circuit-Breakers-Bulkheads-Rate-Limiting.md)
+- [ ] [Day 5: Distributed Locks, Coordination and Consensus](Week-05-Distributed-Systems-Fundamentals/Day-05-Distributed-Locks-Coordination-and-Consensus.md)
+- [ ] [Day 6: Designing Reliable Distributed Workflows](Week-05-Distributed-Systems-Fundamentals/Day-06-Designing-Reliable-Distributed-Workflows.md)
+- [ ] [Day 7: Revision and Reliable Order-System Mock Interview](Week-05-Distributed-Systems-Fundamentals/Day-07-Revision-Reliable-Order-System-Mock-Interview.md)
+
 ## Further weeks
-- [ ] Week 5: Distributed Systems
 - [ ] Week 6: Kafka and Event-Driven Architecture
 - [ ] Week 7: Microservices
 - [ ] Week 8: Advanced System Design
