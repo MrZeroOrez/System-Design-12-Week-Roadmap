@@ -56,6 +56,15 @@ A structured, **detailed day-by-day interview learning repository** for Java and
 - [Day 6: Transactional Outbox, Sagas and Reliable Workflows](Week-06-Kafka-and-Event-Driven-Architecture/Day-06-Transactional-Outbox-Sagas-and-Reliable-Workflows.md)
 - [Day 7: Revision and Event-Driven Order Processing Mock Interview](Week-06-Kafka-and-Event-Driven-Architecture/Day-07-Revision-Event-Driven-Order-System-Mock-Interview.md)
 
+## Week 7 — Microservices Architecture
+- [Day 1: Microservices Architecture Fundamentals and Service Boundaries](Week-07-Microservices-Architecture/Day-01-Microservices-Architecture-Fundamentals.md)
+- [Day 2: API Gateway and Edge Architecture](Week-07-Microservices-Architecture/Day-02-API-Gateway-and-Edge-Architecture.md)
+- [Day 3: Service Discovery and Load Balancing](Week-07-Microservices-Architecture/Day-03-Service-Discovery-and-Load-Balancing.md)
+- [Day 4: Inter-Service Communication with REST and gRPC](Week-07-Microservices-Architecture/Day-04-Inter-Service-Communication-REST-HTTP-gRPC.md)
+- [Day 5: Resilience Patterns for Microservices](Week-07-Microservices-Architecture/Day-05-Resilience-Patterns-for-Microservices.md)
+- [Day 6: Configuration, Security, Observability and Reliable Workflows](Week-07-Microservices-Architecture/Day-06-Configuration-Security-Observability-Reliable-Workflows.md)
+- [Day 7: Revision and Microservices Order Platform Mock Interview](Week-07-Microservices-Architecture/Day-07-Revision-Microservices-Order-Platform-Mock-Interview.md)
+
 ## How to study
 1. Work through the days in order.
 2. Recreate diagrams and calculations from memory.
@@ -71,6 +80,6 @@ A structured, **detailed day-by-day interview learning repository** for Java and
 | 4 | Caching and Performance | Detailed notes published |
 | 5 | Distributed Systems | Detailed notes published |
 | 6 | Kafka and Event-Driven Architecture | Detailed notes published |
-| 7 | Microservices Architecture | Upcoming |
+| 7 | Microservices Architecture | Detailed notes published |
 | 8 | Advanced System Design and High Availability | Upcoming |
 | 9–12 | To be defined | Upcoming |
