@@ -20,6 +20,15 @@ A structured, **detailed day-by-day interview learning repository** for Java and
 - [Day 6: GraphQL, gRPC, WebSockets and SSE](Week-02-Networking-and-Web-Architecture/Day-06-GraphQL-gRPC-WebSockets-and-SSE.md)
 - [Day 7: Revision and Mock Interview](Week-02-Networking-and-Web-Architecture/Day-07-Revision-Mock-Interview.md)
 
+## Week 3 — Detailed database design and storage notes
+- [Day 1: Database Fundamentals, SQL vs NoSQL](Week-03-Database-Design-and-Storage/Day-01-Database-Fundamentals-SQL-vs-NoSQL.md)
+- [Day 2: Data Modeling, Normalization and Schema Design](Week-03-Database-Design-and-Storage/Day-02-Data-Modeling-Normalization-Schema-Design.md)
+- [Day 3: Indexing and Query Optimization](Week-03-Database-Design-and-Storage/Day-03-Indexing-and-Query-Optimization.md)
+- [Day 4: Transactions, ACID and Isolation Levels](Week-03-Database-Design-and-Storage/Day-04-Transactions-ACID-and-Isolation-Levels.md)
+- [Day 5: Replication, Read Replicas and High Availability](Week-03-Database-Design-and-Storage/Day-05-Replication-Read-Replicas-High-Availability.md)
+- [Day 6: Partitioning, Sharding and Database Scalability](Week-03-Database-Design-and-Storage/Day-06-Partitioning-Sharding-Database-Scalability.md)
+- [Day 7: Revision and E-commerce Database Mock Interview](Week-03-Database-Design-and-Storage/Day-07-Revision-Ecommerce-Database-Interview.md)
+
 ## How to study
 1. Work through the days in order.
 2. Recreate diagrams and calculations from memory.
@@ -31,7 +40,7 @@ A structured, **detailed day-by-day interview learning repository** for Java and
 |---|---|---|
 | 1 | System Design Fundamentals | Detailed notes published |
 | 2 | Networking and Web Architecture | Detailed notes published |
-| 3 | Database Design and Storage | Upcoming |
+| 3 | Database Design and Storage | Detailed notes published |
 | 4 | Caching and Performance | Upcoming |
 | 5 | Distributed Systems | Upcoming |
 | 6 | Kafka and Event-Driven Architecture | Upcoming |
