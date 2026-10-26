@@ -47,8 +47,16 @@ Tick a box **only after completing the actual lesson**. A published Git commit d
 - [ ] [Day 6: Designing Reliable Distributed Workflows](Week-05-Distributed-Systems-Fundamentals/Day-06-Designing-Reliable-Distributed-Workflows.md)
 - [ ] [Day 7: Revision and Reliable Order-System Mock Interview](Week-05-Distributed-Systems-Fundamentals/Day-07-Revision-Reliable-Order-System-Mock-Interview.md)
 
+## Week 6 — Kafka and Event-Driven Architecture
+- [ ] [Day 1: Messaging Fundamentals and Asynchronous Communication](Week-06-Kafka-and-Event-Driven-Architecture/Day-01-Message-Queues-and-Asynchronous-Communication.md)
+- [ ] [Day 2: Event-Driven Architecture and Messaging Patterns](Week-06-Kafka-and-Event-Driven-Architecture/Day-02-Event-Driven-Architecture-and-Messaging-Patterns.md)
+- [ ] [Day 3: Apache Kafka Fundamentals and Architecture](Week-06-Kafka-and-Event-Driven-Architecture/Day-03-Apache-Kafka-Fundamentals-and-Architecture.md)
+- [ ] [Day 4: Kafka Producers and Consumers with Spring Boot](Week-06-Kafka-and-Event-Driven-Architecture/Day-04-Kafka-Producers-and-Consumers-with-Spring-Boot.md)
+- [ ] [Day 5: Delivery Semantics, Retries, Idempotency and Dead-Letter Topics](Week-06-Kafka-and-Event-Driven-Architecture/Day-05-Delivery-Semantics-Retries-Idempotency-and-DLT.md)
+- [ ] [Day 6: Transactional Outbox, Sagas and Reliable Workflows](Week-06-Kafka-and-Event-Driven-Architecture/Day-06-Transactional-Outbox-Sagas-and-Reliable-Workflows.md)
+- [ ] [Day 7: Revision and Event-Driven Order Processing Mock Interview](Week-06-Kafka-and-Event-Driven-Architecture/Day-07-Revision-Event-Driven-Order-System-Mock-Interview.md)
+
 ## Further weeks
-- [ ] Week 6: Kafka and Event-Driven Architecture
 - [ ] Week 7: Microservices
 - [ ] Week 8: Advanced System Design
 - [ ] Week 9: To be determined
